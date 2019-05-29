@@ -1,16 +1,16 @@
 # Boxes include navigation
 
 - title: AWS
-  desc: 
+  desc: SDKs, APIs, Services and more
   icon: assets/logo/aws.svg
   url: categories/aws/
 
 - title: Azure
-  desc: 
+  desc: SDKs, APIs, Services and more
   icon: assets/logo/azure.svg
   url: categories/azure/
 
 - title: GCP
-  desc: 
+  desc: SDKs, APIs, Services and more
   icon: assets/logo/gcp.svg
   url: categories/gcp/
