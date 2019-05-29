@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Lambda runtime support ends for .NET Core 2.0
+title: AWS Lambda runtime support ends for .NET Core 2.0 on April 30, 2019
 date: 2019-04-30
 categories: AWS
 tags: [lambda, .net core, 2.0, runtime]

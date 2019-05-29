@@ -5,12 +5,12 @@
   icon: assets/logo/aws.svg
   url: categories/aws/
 
-- title: GCP
-  desc: 
-  icon: assets/logo/gcp.svg
-  url: categories/gcp/
-
 - title: Azure
   desc: 
   icon: assets/logo/azure.svg
   url: categories/azure/
+
+- title: GCP
+  desc: 
+  icon: assets/logo/gcp.svg
+  url: categories/gcp/

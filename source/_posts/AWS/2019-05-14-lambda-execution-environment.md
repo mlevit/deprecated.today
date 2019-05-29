@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Lambda execution environment update
+title: AWS Lambda Linux execution environment update on June 16, 2019
 date: 2019-05-14
 categories: AWS
 tags: [featured, lambda, runtime, linux, ami, execution]
