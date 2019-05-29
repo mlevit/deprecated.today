@@ -8,6 +8,8 @@ tags: [featured, s3, path, url]
 
 AWS S3 bucket addresses are changing from `https://s3.amazonaws.com/<bucket>` to `https://<bucket>.s3.amazonaws.com`.
 
+<!--more-->
+
 **Service:** Amazon S3
 
 **Function:** Path / Address / URL

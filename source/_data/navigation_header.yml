@@ -17,10 +17,10 @@ left:
 right:
   - title: Contribute
     url: https://github.com/mlevit/deprecated.today
-    button: success
+    button: default
 
-  # - title: Changelog
-  #   url: /contact/
+  # - title: Edit on GitHub
+  #   url: https://github.com/mlevit/deprecated.today/tree/master/source/_posts/{{ page.relative_path }}
   #   button: default
 
   # - title: Contact

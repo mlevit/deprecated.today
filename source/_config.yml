@@ -13,7 +13,7 @@ lang: en
 baseurl: ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title/
 
 # Site base hostname & protocol, e.g. http://example.com
 url: "https://deprecated.today/"
@@ -24,8 +24,6 @@ logo:
 navbar:
   sticky: true
   search: true
-
-# future: true
 
 # Social icons displayed in footer
 social:
@@ -109,3 +107,6 @@ defaults:
       type: docs
     values:
       layout: doc
+
+# Custom
+excerpt_separator: <!--more-->

@@ -8,6 +8,8 @@ tags: [featured, lambda, runtime, linux, ami, execution]
 
 AWS Lambda execution environment is being updated to version [2018.03](https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/) of Amazon Linux.
 
+<!--more-->
+
 **Service:** Amazon Lambda
 
 **Function:** Execution environment

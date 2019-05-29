@@ -8,6 +8,8 @@ tags: [lambda, .net core, 2.0, runtime]
 
 Support is being ended for .NET Core 2.0 AWS Lambda runtimes on April 30, 2019.
 
+<!--more-->
+
 **Service:** Amazon Lambda
 
 **Function:** Runtime
