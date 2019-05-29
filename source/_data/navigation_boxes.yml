@@ -8,9 +8,9 @@
 - title: GCP
   desc: 
   icon: assets/logo/gcp.svg
-  doc: categories/gcp/
+  url: categories/gcp/
 
 - title: Azure
   desc: 
   icon: assets/logo/azure.svg
-  doc: categories/azure/
+  url: categories/azure/
