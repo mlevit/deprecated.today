@@ -11,9 +11,6 @@ left:
         url: /categories/azure/
       - title: GCP
         url: /categories/gcp/
-  
-  - title: Docs
-    url: /docs
 
 # Navbar right menu navigation links
 
