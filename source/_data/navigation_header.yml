@@ -1,38 +1,23 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Home
-    url: /
-
   - title: Posts
-    # url: /post/
     dropdown:
-
       - title: All
         url: /post/
       - title: AWS
-        url: /post/
+        url: /categories/aws/
+      - title: Azure
+        url: /categories/azure/
       - title: GCP
-        url: /post/
-
-  # - title: Changelogs
-  #   dropdown:
-
-  #     - title: Timeline Style
-  #       url: /changelog-timeline/
-
-  #     - title: Post Style
-  #       url: /changelog-posts/
-
+        url: /categories/gcp/
+  
+  - title: Docs
+    url: /docs
 
 # Navbar right menu navigation links
 
 right:
-
-#   - title: Changelog
-#     url: /changelog-timeline/
-#     button: primary-outline
-
   - title: Contribute
     url: https://github.com/mlevit/deprecated.today
     button: success

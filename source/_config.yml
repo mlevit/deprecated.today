@@ -25,6 +25,8 @@ navbar:
   sticky: true
   search: true
 
+# future: true
+
 # Social icons displayed in footer
 social:
   email:
