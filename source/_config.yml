@@ -9,11 +9,11 @@ title: Deprecated.today
 description: Collection of deprecated technology, APIs, runtimes and more.
 lang: en
 
-# Site subpath, e.g. /blog
+# Site subpath, e.g. /post
 baseurl: ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink: /:title/
+permalink: /:categories/:title:output_ext
 
 # Site base hostname & protocol, e.g. http://example.com
 url: "https://deprecated.today/"
@@ -24,39 +24,6 @@ logo:
 navbar:
   sticky: true
   search: true
-
-# Default author settings
-author:
-  name: Marat Levit
-  title: Owner
-  avatar: avatar-tom.png
-
-# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
-authors:
-  john:
-    name: John Brown
-    title: Support
-    avatar: avatar-john.png
-  evan:
-    name: Evan Wells
-    title: Support
-    avatar: avatar-evan.png
-  sara:
-    name: Sara Galen
-    title: Lead Developer
-    avatar: avatar-sara.png
-  alex:
-    name: Alex Koch
-    title: Design Engineer
-    avatar: avatar-alex.png
-  daniel:
-    name: Daniel Shultz
-    title: Developer
-    avatar: avatar-daniel.png
-  tom:
-    name: Tom Farrell
-    title: Developer
-    avatar: avatar-tom.png
 
 # Social icons displayed in footer
 social:
@@ -96,7 +63,7 @@ google_analytics:
 paginate: 10
 
 # Blog path
-paginate_path: "/blog/:num/"
+paginate_path: "/post/:num/"
 
 # Path to post content assets directory i.e post images, pdfs etc
 uploads: /uploads/

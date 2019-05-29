@@ -6,12 +6,13 @@ tags: [setup]
 ---
 
 Edit copyright notice in `_config.yml`:
+
 ```yaml
-footer:
-    copyright:
+footer: copyright:
 ```
 
 Set in the navigation links in `_data/navigation_footer.yml`:
+
 ```yaml
 - title: About
   url: /about/

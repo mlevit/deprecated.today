@@ -11,6 +11,7 @@ bundle install
 ```
 
 Run the following to generate your site:
+
 ```bash
 bundle exec jekyll serve
 ```
@@ -20,33 +21,35 @@ You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-m
 ## Setup
 
 ### Site and author details
+
 Add your site and author details in `_config.yml`:
+
 ```yaml
 # Site title and description
-title:              Docs
-description:        Documentation Jekyll theme.
-lang:               en
+title: Docs
+description: Documentation Jekyll theme.
+lang: en
 
-# Site subpath, e.g. /blog
-baseurl:            ""
+# Site subpath, e.g. /post
+baseurl: ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink:          /:title/
+permalink: /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://docs.jekyll.plus"
+url: "https://docs.jekyll.plus"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               
+logo:
 
 navbar:
-  search:           true;
-  
+  search: true;
+
 # Default author settings
 author:
-    name:           Pete Seth
-    title:          Lead Developer  
-    avatar:         avatar-tom.png
+  name: Pete Seth
+  title: Lead Developer
+  avatar: avatar-tom.png
 ```
 
 ## Customization
@@ -54,10 +57,11 @@ author:
 To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
 
 ```scss
-$global-primary-background:                   #05c896;
+$global-primary-background: #05c896;
 ```
 
 Further style customisation can be done in the following files:
+
 ```
 /_sass/theme/mixins.scss
 /_sass/theme/variables.scss
@@ -67,10 +71,13 @@ Further style customisation can be done in the following files:
 ## Development
 
 Install [UIkit](https://getuikit.com/) font end framework dependency via Npm:
+
 ```bash
 npm install
 ```
+
 Enable live browser reload with the following:
+
 ```bash
 bundle exec jekyll s --livereload
 ```
@@ -83,7 +90,9 @@ bundle exec jekyll s --livereload
 - Jekyll CML https://jekyllrb.com/
 
 ## Support
+
 Customer support is provided through our Envato profile page [contact form](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 24h.
 
 ## Documentation
+
 Full documentation can be found here: [https://docs.jekyll.plus/](https://docs.jekyll.plus/).

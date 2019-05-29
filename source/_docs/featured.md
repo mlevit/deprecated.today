@@ -7,12 +7,17 @@ author: evan
 
 Then add the following to a page to display featured docs:
 {% raw %}
+
 ```yaml
-{% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
+{
+  % include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %,
+}
 ```
+
 {% endraw %}
 
 All docs with a `featured` tag will be displayed:
+
 ```yml
 tags: [featured]
 ```

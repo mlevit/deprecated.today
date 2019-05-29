@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Post
 ---
 
 <div class="uk-section">
@@ -13,13 +13,13 @@ title: Blog
             <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
             <div class="uk-card-header">
                 <div class="uk-grid-small uk-flex-middle" uk-grid>
-                    {% if post.author %}
+                    <!-- {% if post.author %}
                       {% assign author = site.authors[post.author] %}
                     {% else %}
                       {% assign author = site.author %}
-                    {% endif %}
+                    {% endif %} -->
 
-                    {% if author.avatar %}
+                    <!-- {% if author.avatar %}
                         <div class="uk-width-auto">
                             {% if author.avatar contains 'http' %}
                                 {% assign domain = '' %}
@@ -28,7 +28,7 @@ title: Blog
                             {% endif %}
                             <img class="uk-border-circle avatar" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}">
                         </div>
-                    {% endif %}
+                    {% endif %} -->
                   
                   
                     <div class="uk-width-expand">
@@ -50,7 +50,7 @@ title: Blog
         </div>
         {% endfor %}
 
-        {% include paginate-blog.html %}
+        {% include paginate-post.html %}
 
     </div>
 </div>
