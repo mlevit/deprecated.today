@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon S3 Path (URL) deprecation plan on September 39, 2020
+title: Amazon S3 Path (URL) deprecation plan on September 30, 2020
 date: 2019-05-08
 categories: AWS
 tags: [featured, s3, path, url]

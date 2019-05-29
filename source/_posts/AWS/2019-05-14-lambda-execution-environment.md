@@ -10,7 +10,7 @@ AWS Lambda execution environment is being updated to version [2018.03](https://a
 
 <!--more-->
 
-**Service:** Amazon Lambda
+**Service:** AWS Lambda
 
 **Function:** Execution environment
 
