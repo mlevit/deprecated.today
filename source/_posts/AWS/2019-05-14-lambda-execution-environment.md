@@ -3,7 +3,7 @@ layout: post
 title: AWS Lambda execution environment update
 date: 2019-05-14
 categories: AWS
-tags: [lambda, runtime, linux, ami, execution]
+tags: [featured, lambda, runtime, linux, ami, execution]
 ---
 
 AWS Lambda execution environment is being updated to version [2018.03](https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/) of Amazon Linux.
