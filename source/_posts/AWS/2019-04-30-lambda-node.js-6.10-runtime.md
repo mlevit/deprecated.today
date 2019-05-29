@@ -6,8 +6,6 @@ categories: AWS
 tags: lambda node.js 6.10 runtime
 ---
 
-## Summary
-
 Support is being ended for Node.js 6.10 AWS Lambda runtimes on April 30, 2019.
 
 ## Extract
