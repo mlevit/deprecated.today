@@ -2,8 +2,8 @@
 layout: page
 width: expand
 hero:
-    title: Deprecated.today
-    subtitle: Search or browse deprecation notices
+    # title: Deprecated.today
+    # subtitle: Search or browse deprecation notices
     # image: knowledge.svg
     search: true
 ---
