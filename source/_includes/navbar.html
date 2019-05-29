@@ -81,7 +81,8 @@
                                 resultsContainer: document.getElementById('search-navbar-results'),
                                 noResultsText: '<li class="no-results">{{ site.data.translation[site.lang].search_no_results | default: "No results found" }}</li>',
                                 searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-                                json: '/search.json'
+                                json: '/search.json',
+                                fuzzy: true
                             });
                             searchResults("search-navbar");
                             </script>
