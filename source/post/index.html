@@ -13,6 +13,11 @@ title: Post
             <a class="uk-position-cover" href="{{ post.url | relative_url }}"></a>
             <div class="uk-card-header">
                 <div class="uk-grid-small uk-flex-middle" uk-grid>
+                    <div class="uk-width-auto">
+                        {% if post.categories %}
+                            <img class="uk-border-circle avatar" src="/assets/logo/{{ post.categories }}.svg" alt="{{ page.categories }}">
+                        {% endif %}
+                    </div>
                     <!-- {% if post.author %}
                       {% assign author = site.authors[post.author] %}
                     {% else %}

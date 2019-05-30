@@ -67,6 +67,7 @@ paginate_path: "/post/:num/"
 
 # Path to post content assets directory i.e post images, pdfs etc
 uploads: /uploads/
+assets: /assets/
 
 # Build settings
 markdown: kramdown

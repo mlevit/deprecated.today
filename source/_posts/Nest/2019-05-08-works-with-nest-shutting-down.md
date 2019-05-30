@@ -2,7 +2,7 @@
 layout: post
 title: Works with Nest program shutting down on August 31, 2019
 date: 2019-05-14
-categories: AWS
+categories: Nest
 tags: [featured, nest, api, google]
 ---
 
