@@ -32,4 +32,4 @@ Deprecation occurs in two phases. During the first phase, you can no longer crea
 
 ## More Information
 
-Link: <https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html>
+- <https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html>

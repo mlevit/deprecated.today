@@ -65,7 +65,7 @@ assign align = "center" %} {% endif %}
                 searchInput: document.getElementById('search-hero'),
                 resultsContainer: document.getElementById('search-hero-results'),
                 noResultsText: '<li class="no-results">{{ site.data.translation[site.lang].search_no_results | default: "No results found" }}</li>',
-                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                searchResultTemplate: '<li><a href="{url}"><img class="uk-border-circle avatar" src="/assets/logo/{{ page.categories }}.svg" alt="{{ page.categories }}"> {title}</a></li>',
                 json: '/search.json',
                 fuzzy: true
             });

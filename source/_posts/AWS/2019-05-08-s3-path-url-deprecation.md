@@ -42,4 +42,4 @@ These URLs reference the same objects, but the objects are now in distinct DNS s
 
 ## More Information
 
-Link: <https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/>
+- <https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/>

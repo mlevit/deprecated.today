@@ -66,4 +66,4 @@ When a component (operating system, runtime, application server, or web server) 
 
 ## More Information
 
-Link: <https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-support-policy.html>
+- <https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-support-policy.html>

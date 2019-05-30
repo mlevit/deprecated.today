@@ -2,15 +2,15 @@
 
 - title: AWS
   desc: SDKs, APIs, Services and more
-  icon: assets/logo/aws.svg
+  icon: assets/logo/AWS.svg
   url: categories/aws/
 
 - title: Azure
   desc: SDKs, APIs, Services and more
-  icon: assets/logo/azure.svg
+  icon: assets/logo/Azure.svg
   url: categories/azure/
 
 - title: GCP
   desc: SDKs, APIs, Services and more
-  icon: assets/logo/gcp.svg
+  icon: assets/logo/GCP.svg
   url: categories/gcp/

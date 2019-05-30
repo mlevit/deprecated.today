@@ -36,4 +36,4 @@ July 29, 2019 – Migration End: All functions have been migrated over to the ne
 
 ## More Information
 
-Link: <https://aws.amazon.com/blogs/compute/upcoming-updates-to-the-aws-lambda-execution-environment/>
+- <https://aws.amazon.com/blogs/compute/upcoming-updates-to-the-aws-lambda-execution-environment/>
